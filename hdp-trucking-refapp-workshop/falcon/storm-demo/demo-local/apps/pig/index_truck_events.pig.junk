@@ -1,0 +1,1 @@
+A = LOAD 'truck_events_text_partition_single' USING org.apache.hcatalog.pig.HCatLoader();
